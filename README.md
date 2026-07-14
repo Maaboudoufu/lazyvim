@@ -1,0 +1,2 @@
+# lazyvim
+my template
